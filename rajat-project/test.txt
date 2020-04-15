@@ -1,0 +1,121 @@
+const data =[
+    {
+        "project1":[
+            {
+                "feature1":{
+                    "color": "green"
+                }
+            },
+            {
+                "feature2":{
+                    "color": "yellow",
+                    "reason_title": "Missing File",
+                    "missing_box": "prod1"
+                }
+            },
+            {
+                "feature3":{
+                    "color": "red",
+                    "reason_title": "Missing File",
+                    "missing_box": "dev1, stage1, prod1"
+                }
+            },
+            {
+                "feature4":{
+                    "color": "red",
+                    "reason_title": "Missing File",
+                }
+            }
+        ]
+    },
+    {
+        "project2":[
+            {
+                "feature1":{
+                    "color": "green"
+                }
+            },
+            {
+                "feature2":{
+                    "color": "yellow",
+                    "reason_title": "Missing File",
+                    "missing_box": "prod1"
+                }
+            },
+            {
+                "feature3":{
+                    "color": "red",
+                    "reason_title": "Missing File",
+                    "missing_box": "dev1, stage1, prod1",
+                }
+            },
+            {
+                "feature4":{
+                    "color": "red",
+                    "reason_title": "Missing File",
+                    "missing_box": "dev1, stage1"
+                }
+            }
+        ]
+    },
+    {
+        "project3":[
+            {
+                "feature1":{
+                    "color": "green"
+                }
+            },
+            {
+                "feature2":{
+                    "color": "yellow",
+                    "reason_title": "Missing File",
+                    "missing_box": "prod1"
+                }
+            },
+            {
+                "feature3":{
+                    "color": "red",
+                    "reason_title": "Missing File",
+                    "missing_box": "dev1, stage1, prod1"
+                }
+            },
+            {
+                "feature4":{
+                    "color": "red",
+                    "reason_title": "Missing File",
+                    "missing_box": "dev1, stage1"
+                }
+            }
+        ]
+    },
+    {
+        "project4":[
+            {
+                "feature1":{
+                    "color": "green"
+                }
+            },
+            {
+                "feature2":{
+                    "color": "yellow",
+                    "reason_title": "Missing File",
+                    "missing_box": "prod1"
+                }
+            },
+            {
+                "feature3":{
+                    "color": "red",
+                    "reason_title": "Missing File",
+                    "missing_box": "dev1, stage1, prod1"
+                }
+            },
+            {
+                "feature4":{
+                    "color": "red",
+                    "reason_title": "Missing File",
+                    "missing_box": "dev1, stage1"
+                }
+            }
+        ]
+    }
+]
